@@ -6,4 +6,5 @@ Versions include:
 - P Rank Build (NOT Finalized Build)
 
 Go [HERE](https://github.com/burnedpopcorn/Sugary-Spire-Web-Port/tree/SS-Playtest-3.2) for Playtest, and Go [HERE](https://github.com/burnedpopcorn/Sugary-Spire-Web-Port/tree/SS_P-Rank) for P rank
-NOT MINE I REPEAR NOT MINE
+NOT MINE I REPEAT NOT MINE
+THis is a back up of burned popcorns data which isn't really his either but anyway
